@@ -40,3 +40,28 @@ It’s designed for individuals or organizations who want to create a profession
 
 ## 📁 Folder Structure
 
+MySite/
+│
+├── index.html # Main HTML page
+├── style.css # Custom styles
+├── Images/ # Image assets
+├── globe.svg # Favicon
+└── README.md # Project documentation
+
+🧠 Customization
+
+Replace the images inside the Images/ folder with your own.
+
+Update the site text in the <section> elements to reflect your brand.
+
+Modify style.css to adjust colors, fonts, or spacing.
+
+Optionally, add more Bootstrap components (cards, modals, etc.) for richer functionality.
+
+🔒 License
+
+This project is open-source and available under the MIT License.
+You can freely use, modify, and distribute it for personal or commercial projects.
+
+🖤 If you like this project, give it a ⭐ on GitHub!
+
