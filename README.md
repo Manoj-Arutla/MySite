@@ -38,25 +38,18 @@ It’s designed for individuals or organizations who want to create a profession
 
 ---
 
-## 📁 Folder Structure
-
-MySite/
-│
-├── index.html # Main HTML page
-├── style.css # Custom styles
-├── Images/ # Image assets
-├── globe.svg # Favicon
-└── README.md # Project documentation
-
 🧠 Customization
 
-Replace the images inside the Images/ folder with your own.
+- Replace the images inside the Images/ folder with your own.
 
-Update the site text in the <section> elements to reflect your brand.
+- Update the site text in the <section> elements to reflect your brand.
 
-Modify style.css to adjust colors, fonts, or spacing.
+- Modify style.css to adjust colors, fonts, or spacing.
 
 Optionally, add more Bootstrap components (cards, modals, etc.) for richer functionality.
+
+---
+
 
 🔒 License
 
